@@ -55,6 +55,7 @@ restaurantTotalStaff : staff in the restaurant
 
 ### API Endpoints :-
 </br>
+
 >* GetMapping: "/restaurants"
 ```
 This endpoint makes a call to method in RestaurantService class which retrieves data of all restaurants from database. This data is sent to controller which is then sent through the API to client.
